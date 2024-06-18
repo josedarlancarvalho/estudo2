@@ -1,1 +1,1 @@
-estudando string em python.
+estudando string em python
